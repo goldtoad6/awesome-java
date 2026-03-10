@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <a href="https://www.yuque.com/docs/share/8a30ffb5-83f3-40f9-baf9-38de68b906dc">
+        <a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html">
             <img src="https://oss.javaguide.cn/xingqiu/xingqiu.png" style="margin: 0 auto; width: 850px;" />
         </a>
     </p>
